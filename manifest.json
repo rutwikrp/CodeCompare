@@ -1,0 +1,19 @@
+
+{
+    "manifest_version": 3,
+    "name": "Universal Code Differ",
+    "version": "1.0",
+    "description": "Compare code snippets from anywhere",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png"
+        
+      }
+    },
+    "icons": {
+      "16": "icon.png"
+      
+    }
+  }
